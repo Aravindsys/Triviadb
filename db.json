@@ -4,7 +4,7 @@
             "Name":"Aravind.k",
             "version":"0.0.1",
             "leadershipBoard":[
-                {
+                {   "id":0,
                     "name":"John Ryan",
                     "score":4
                 }
